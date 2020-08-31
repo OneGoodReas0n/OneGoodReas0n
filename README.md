@@ -28,11 +28,16 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/postgresql.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
+
 ### 📺 Latest Projects
+
+<!-- PROJECTS:START -->
 
 - [Weather application](https://onegoodreas0n.github.io/weather-app/)
 - [Virtual keyboard](https://onegoodreas0n.github.io/virtual-keyboard/)
 - [Pixel draw](https://onegoodreas0n.github.io/codejam-palette/)
+<!-- PROJECTS:END -->
 
 [website]: https://onegoodreas0n.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/illia-korobov-450639170/
