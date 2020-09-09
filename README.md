@@ -2,7 +2,7 @@
 
 ## I'm a Student, Javascript and React Developer!
 
-- 🔭 I’m currently working on my pet-project!
+- 🔭 I’m currently working on Piforum ([Piforum])!
 - 🌱 I’m currently learning Next.js, GraphQL 🤣
 - 👯 I’m looking for interesting projects
 - ⚡ Fun fact: I think that programming is a kind of art
@@ -34,6 +34,7 @@
 
 <!-- PROJECTS:START -->
 
+- [Piforum](https://piforum.xyz)
 - [Weather application](https://onegoodreas0n.github.io/weather-app/)
 - [Virtual keyboard](https://onegoodreas0n.github.io/virtual-keyboard/)
 - [Pixel draw](https://onegoodreas0n.github.io/codejam-palette/)
