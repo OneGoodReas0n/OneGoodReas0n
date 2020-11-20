@@ -2,7 +2,7 @@
 
 ## I'm a Student, Javascript and React Developer!
 
-- 🔭 I’m currently working on [Piforum](https://piforum.xyz) 
+- 🔭 I’m currently working on my [Portfolio](https://illia-korobov.xyz) 
 - 🌱 I’m currently learning Next.js, GraphQL 🤣
 - 👯 I’m looking for interesting projects
 - ⚡ Fun fact: I think that programming is a kind of art
