@@ -1,6 +1,6 @@
 ### Hi there, I'm Illia 👋
 
-## I'm a Student, Javascript and React Developer!
+## I'm a Javascript and Angular Developer!
 
 - 🔭 I’m currently working on my [Portfolio](https://illia-korobov.xyz) 
 - 🌱 I’m currently learning Next.js, GraphQL 🤣
